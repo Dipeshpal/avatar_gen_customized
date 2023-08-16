@@ -24,6 +24,7 @@ Sample-
 
 ![image](https://drive.google.com/file/d/1U-dfxxlSbgvpsdds9mBSD6ochqLQlaes/view?usp=sharing)
 
+<iframe src="https://drive.google.com/file/d/1U-dfxxlSbgvpsdds9mBSD6ochqLQlaes/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ## Steps to train and test the model-
