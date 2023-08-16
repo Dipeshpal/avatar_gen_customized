@@ -20,12 +20,7 @@ Model 16_epochs: https://drive.google.com/file/d/1C8le-h40-frs-2QK3rjcPGwe-lIGqA
 Epoch 20/20
  150/152 Discriminator-1_Loss: 0.112 Discriminator-2_Loss: 0.160 GAN_Loss: 7.010
 
-Sample-
-
-![image](https://drive.google.com/file/d/1U-dfxxlSbgvpsdds9mBSD6ochqLQlaes/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/1U-dfxxlSbgvpsdds9mBSD6ochqLQlaes/preview" width="640" height="480" allow="autoplay"></iframe>
-
+Sample Result- https://drive.google.com/file/d/1U-dfxxlSbgvpsdds9mBSD6ochqLQlaes/view
 
 ## Steps to train and test the model-
 
